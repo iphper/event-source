@@ -1,0 +1,17 @@
+{
+    "name": "iphper/event-source",
+    "type": "library",
+    "license": "TIM",
+    "autoload": {
+        "psr-4": {
+            "EventSource\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iphper",
+            "email": "iguoping@qq.com"
+        }
+    ],
+    "require": {}
+}
